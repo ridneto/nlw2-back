@@ -1,0 +1,10 @@
+./idea/
+node_modules
+.vscode
+coverage
+build/
+temp/
+tmp/*
+!tmp/.gitkeep
+.env
+yarn-error.log
