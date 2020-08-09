@@ -12,6 +12,9 @@ $ cd nlw2-back
 # Instale as dependências
 $ yarn install
 
+# Rode a criação do banco
+$ yarn knex:run
+
 # Execute a aplicação a aplicação
 $ yarn start
 
