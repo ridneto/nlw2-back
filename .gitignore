@@ -6,5 +6,4 @@ build/
 temp/
 tmp/*
 !tmp/.gitkeep
-.env
 yarn-error.log
